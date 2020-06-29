@@ -1,0 +1,23 @@
+{
+  "name": "googlebooksave",
+  "version": "1.0.0",
+  "description": "search and save books from google api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liseyPanda/googleBookSave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liseyPanda/googleBookSave/issues"
+  },
+  "homepage": "https://github.com/liseyPanda/googleBookSave#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1"
+  }
+}
